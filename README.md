@@ -17,7 +17,7 @@ Our mission is to establish a shared standard for creating AI avatars. Every ava
 4.	Interact and collaborate with other humans or iFay instances
 5.	Take over and safeguard the human host’s privacy, including long-term memory
 
----
+
 
 # Getting Started
 📚 Read the [Documentation](https://github.com/jahguo/iFay/wiki) for guides and tutorials <br>
@@ -48,7 +48,7 @@ Our mission is to establish a shared standard for creating AI avatars. Every ava
     - OAuth
     - Fingerprint
 
----
+
 
 # 💻 Use our SDKs to start building:
 - TypeScript SDK
