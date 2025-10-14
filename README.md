@@ -4,8 +4,6 @@
 
 iFay (Individual Fay) is a digital co-brain for humans. It fuses human cognition with AI computing power to deliver proactive prediction services. Instead of requiring users to manually operate external applications, APIs, MCPs, or hardware, iFay takes over execution. 
 
-![](https://github.com/user-attachments/assets/abaa7266-6d33-4f9f-9970-3865309fdf07)
-
 # Contributing
 We welcome contributions in all forms!
 Whether you’re fixing bugs, improving documentation, or suggesting new features, please refer to our Contribution Guide to get started.
