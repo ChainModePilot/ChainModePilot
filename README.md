@@ -1,4 +1,4 @@
-# iFay
+# iFay-Framework
 
 ![](https://github.com/user-attachments/assets/2cd8f495-58a3-4085-a38b-164d2edfc586)
 
